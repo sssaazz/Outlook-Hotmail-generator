@@ -30,4 +30,4 @@ equest based
 8. Run the program using py main.py
   
  We invite you to join this exclusive Telegram group: [Capsolver Chat](https://t.me/CapSolverChat). Upon joining, kindly contact the group administrator to receive complimentary account credit.                                                                                                               
- 
+  
